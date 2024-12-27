@@ -1,0 +1,4 @@
+#Speakers
+Bedroom 1 speaker,1,50.5, "Free Bird"
+Bedroom 2 speaker,1,33,Test song 1
+House Speaker,0,19,Happy birthday

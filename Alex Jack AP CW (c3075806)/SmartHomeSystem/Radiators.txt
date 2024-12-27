@@ -1,0 +1,7 @@
+#Radiators
+test,1,32,Heating boost active, heating on for the next hour
+testing,1,21,Heating boost active, heating on for the next hour
+test,1,32,Heating boost active, heating on for the next hour
+testing,1,21,Heating boost active, heating on for the next hour
+test2,1,12,Heating boost active, heating on for the next hour
+finalTest,1,21,Heating boost active, heating on for the next hour
